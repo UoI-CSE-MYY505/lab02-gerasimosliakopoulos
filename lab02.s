@@ -1,5 +1,5 @@
 
-.data
+.data 
 
 array: .word 1, 0, 1, 12, 0, 1, 4
 
